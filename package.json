@@ -12,6 +12,6 @@
 	},
 	"version" : "1.0.0",
 	"dependencies" : {
-		"multiparter" : "0.1.4",
+		"multiparter" : "0.1.4"
 	}
 }
