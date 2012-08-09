@@ -10,7 +10,7 @@ Now just support following api:
 - friends_timeline : view friends's feed timeline
 
 
-[usecase](http://code.google.com/p/mail2miniblog/source/browse/nodejs/lib/weibo_oauth2_worker.js)
-[demo](http://session.im/)
+- [usecase](http://code.google.com/p/mail2miniblog/source/browse/nodejs/lib/weibo_oauth2_worker.js)
+- [demo](http://session.im/)
 
 
