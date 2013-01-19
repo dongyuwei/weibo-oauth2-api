@@ -1,6 +1,7 @@
 {
 	"name" : "weibo-oauth2-api",
 	"description" : "weibo-oauth2-api,by nodejs",
+	"main" : "lib/weibo_oauth2_api.js",
 	"author" : {
 		"name" : "dongyuwei",
 		"email" : "newdongyuwei@gmail.com",
@@ -10,7 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/dongyuwei/weibo-oauth2-api"
 	},
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"dependencies" : {
 		"multiparter" : "0.1.4"
 	}
